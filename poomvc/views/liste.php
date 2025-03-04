@@ -3,11 +3,11 @@
 <h2>Liste des Produits</h2>
 <table border="1">
     <tr>
-        <th>ID</th>
+        <th>Id</th>
         <th>Nom</th>
         <th>Prix</th>
         <th>Quantité</th>
-        <th>Actions</th>
+        <th> </th>
     </tr>
     <?php foreach ($produits as $produit) : ?>
         <tr>
